@@ -24,5 +24,20 @@ Attacker mindset + Blue Team training = unique SOC perspective.
 
 **Currently seeking:** Remote SOC Tier 1 roles
 
+# TryHackMe Badge Collection
+
+**33 of 131 badges earned** (Top 25% of platform)
+
+## Completion Summary
+
+| Category | Earned | Total | Status |
+|----------|--------|-------|--------|
+| [Foundation](./Foundation-Milestones/) | 6 | 6 | ✅ 100% |
+| [Blue Team](./Blue-Team-Milestones/) | 13 | 13 | ✅ 100% |
+| [Red Team](./Red-Team-Milestones/) | 6 | 6 | ✅ 100% |
+| Learning | 5 | 5 | ✅ 100% |
+| Miscellaneous | 3 | - | ✅ Complete |
+
+
 📧 anthonymcqueen29@gmail.com  
 🌐 https://tryhackme.com/p/Amp87
