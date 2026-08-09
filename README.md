@@ -1,5 +1,5 @@
 # Anthonymcquee21
- SOC Analyst Candidate | Blue Team Focus | 365-Day THM Streak
+ SOC Analyst Candidate | Blue Team Focus | 375-Day THM Streak
 # Anthony Perez | SOC Analyst Candidate
 
 ## Current Focus: Blue Team Operations
@@ -16,7 +16,7 @@
 
 ## Certifications
 - ✅ **SEC0** - TryHackMe Pre-Security (2025)
-- 🔄 **SAL1** - Security Analyst Level 1 (In Progress, 73%)
+- 🔄 **SAL1** - Security Analyst Level 1 (In Progress, 80%)
 
 ## Background
 Former independent security researcher transitioning to defensive operations. 
