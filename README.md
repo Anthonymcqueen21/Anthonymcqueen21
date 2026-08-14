@@ -15,8 +15,9 @@
 - **Tools**: Nmap, Burp Suite, OSINT frameworks, Python scripting
 
 ## Certifications
-- ✅ **SEC0** - TryHackMe Pre-Security (2025)
-- 🔄 **SAL1** - Security Analyst Level 1 (In Progress, 80%)
+- ✅ **SEC0** - TryHackMe Pre-Security (2026)
+- **SEC1** - Currently Testing (2026)
+- 🔄 **SAL1** - Security Analyst Level 1 (In Progress, 83%)
 
 ## Background
 Former independent security researcher transitioning to defensive operations. 
