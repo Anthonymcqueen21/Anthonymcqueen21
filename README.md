@@ -1,10 +1,10 @@
 # Anthonymcquee21
- SOC Analyst Candidate | Blue Team Focus | 375-Day THM Streak
+ SOC Analyst Candidate | Blue Team Focus | 382-Day THM Streak
 # Anthony Perez | SOC Analyst Candidate
 
 ## Current Focus: Blue Team Operations
-- 🔥 **378-day TryHackMe streak** | Top 1% | 230 rooms completed
-- 📜 **SEC0 Certified** | **SAL1 In Progress (80%)**
+- 🔥 **382-day TryHackMe streak** | Top 1% | 233 rooms completed
+- 📜 **SEC0 Certified** | **SAL1 In Progress (83%)**
 - 🎯 **6 years offensive security research** → Blue Team transition
 - 📍 Bakersfield, CA | **Remote SOC roles only**
 
