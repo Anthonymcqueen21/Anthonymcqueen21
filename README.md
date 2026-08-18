@@ -33,7 +33,7 @@ Attacker mindset + Blue Team training = unique SOC perspective.
 
 | Category | Earned | Total | Status |
 |----------|--------|-------|--------|
-| [Foundation](./Foundation-Milestones/) | 6 | 6 | ✅ 100% |
+| [Foundation](./Foundation-Milestones/) | 7 | 7 | ✅ 100% |
 | [Blue Team](./Blue-Team-Milestones/) | 13 | 13 | ✅ 100% |
 | [Red Team](./Red-Team-Milestones/) | 6 | 6 | ✅ 100% |
 | Learning | 5 | 5 | ✅ 100% |
