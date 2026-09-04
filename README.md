@@ -1,4 +1,4 @@
-# Anthony Perez | SOC Analyst Candidate -> Finish Line "Principal Security Architect"
+# Anthony Perez | SOC Analyst Candidate | Blue Team Operations | Principal Security Architect Track
 
 ## Current Focus: Blue Team Operations
 - 🔥 **400+-day TryHackMe streak** | Top 1% | 240 rooms completed
