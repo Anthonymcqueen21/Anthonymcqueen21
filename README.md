@@ -7,7 +7,7 @@
 - 📍 Bakersfield, CA | **Remote SOC roles only**
 
 ## Technical Skills
-- **SIEM**: Splunk, ELK Stack, log analysis
+- **SIEM**: Splunk, ELK Stack, log analysis, chasing the boogeyman.
 - **Threat Detection**: MITRE ATT&CK, IOC analysis, alert triage
 - **Networking**: TCP/IP, Wireshark, network traffic analysis
 - **Tools**: Nmap, Burp Suite, OSINT frameworks, Python scripting
