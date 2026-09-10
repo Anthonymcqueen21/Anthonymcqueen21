@@ -40,9 +40,9 @@
 
 ## Career Progression
 
-**Current Goal:** Complete SAL1, secure remote SOC Tier 1 role by January 2027.
+**Current Goal:** Complete SAL1, secure remote SOC Tier 1 role by January 2027 the real question is who has the guts to hire me ?
 
-**Long-term Vision:** Bullet-proof resume with 7 certifications ensuring never more than 2-3 months between jobs become a principal security architect.
+**Long-term Vision:** Bullet-proof resume with 7 certifications ensuring never more than 2-3 months between jobs become a principal security architect
 
 ## Background
 Former independent security researcher transitioning to defensive operations. 
