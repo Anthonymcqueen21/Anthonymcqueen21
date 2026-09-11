@@ -2,7 +2,7 @@
 
 ## Current Focus: Blue Team Operations
 - 🔥 **400+-day TryHackMe streak** | Top 1% | 243 rooms completed
-- 📜 **SEC0 & SEC1 Certified** | **SAL1 In Progress (95%)**
+- 📜 **SEC0 & SEC1 Certified** | **SAL1 In Progress (98%)**
 - 🎯 **6 years offensive security research bug bounty red-team** → Blue Team transition
 - 📍 Bakersfield, CA | **Remote SOC roles only**
 
