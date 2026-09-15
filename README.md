@@ -12,7 +12,7 @@
 - **Networking**: TCP/IP, Wireshark, network traffic analysis
 - **Tools**: Nmap, Burp Suite, OSINT frameworks, Python scripting
 
-## Certification Roadmap (2 Down, 5 To Go)
+## Certification Roadmap (2 Down, 6 To Go)
 
 ### ✅ Phase 1: Foundations (COMPLETE)
 | Certification | Focus | Status | Date |
