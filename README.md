@@ -24,7 +24,7 @@
 | Certification | Focus | Status | Target |
 |--------------|-------|--------|--------|
 | SAL1 - Security Analyst Level 1 | SOC Tier 1 | ✅ Training Complete<br>📝 Exam Scheduled | September 2026 |
-| SAL2 - Security Analyst Level 2 | SOC Tier 2 | 🚀 Enrolled (2%)<br>Active Learning | Q2 2027 |
+| SAL2 - Security Analyst Level 2 | SOC Tier 2 | 🚀 Enrolled (8%)<br>Active Learning | Q2 2027 |
 
 ### 📋 Phase 3: Industry Validation (POST-HIRE)
 | Certification | Purpose | Target |
