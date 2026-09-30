@@ -1,13 +1,16 @@
 # Anthony Perez | SOC Analyst Candidate | Blue Team Operations | Principal Security Architect Track
 
 ## Current Focus: Blue Team Operations
-- 🔥 **400+-day TryHackMe streak** | Top 1% | 250 rooms completed
-- 📜 **SEC0 & SEC1 Certified** | **SAL1 Training Complete** | **SAL2 Enrolled**
+- 🔥 **427-day TryHackMe streak** | Rank 11,524 (Top 1%) | 250 rooms completed | 44 badges earned
+- 📜 **SEC0 & SEC1 Certified** | **SAL1 Training Complete** | **SAL2 Enrolled (10%)**
 - 🎯 **6 years offensive security research bug bounty red-team** → Blue Team transition
 - 📍 Bakersfield, CA | **Remote SOC roles only**
 
+## Recent Achievement
+- 🏅 **SPLUNKing Badge** - Completed Splunk: Parsing and Manipulating Data (September 30, 2026)
+
 ## Technical Skills
-- **SIEM**: Splunk, ELK Stack, log analysis, chasing the boogeyman.
+- **SIEM**: Splunk, ELK Stack, log analysis, threat hunting
 - **Threat Detection**: MITRE ATT&CK, IOC analysis, alert triage
 - **Networking**: TCP/IP, Wireshark, network traffic analysis
 - **Tools**: Nmap, Burp Suite, OSINT frameworks, Python scripting
@@ -23,8 +26,8 @@
 ### 🔄 Phase 2: Blue Team Specialization (IN PROGRESS)
 | Certification | Focus | Status | Target |
 |--------------|-------|--------|--------|
-| SAL1 - Security Analyst Level 1 | SOC Tier 1 | ✅ Training Complete<br>📝 Exam Scheduled | September 2026 |
-| SAL2 - Security Analyst Level 2 | SOC Tier 2 | 🚀 Enrolled (8%)<br>Active Learning | Q2 2027 |
+| SAL1 - Security Analyst Level 1 | SOC Tier 1 | ✅ Training Complete<br>📝 Exam Scheduled | October 2026 |
+| SAL2 - Security Analyst Level 2 | SOC Tier 2 | 🚀 Enrolled (10%)<br>Active Learning | Q2 2027 |
 
 ### 📋 Phase 3: Industry Validation (POST-HIRE)
 | Certification | Purpose | Target |
@@ -44,6 +47,11 @@
 
 **Long-term Vision:** Bullet-proof resume with 7 certifications ensuring never more than 2-3 months between jobs. Become a Principal Security Architect by 55.
 
+## Background
+Former independent security researcher transitioning to defensive operations. 
+Attacker mindset + Blue Team training + Continuous certification = unique SOC perspective.
+
+**Currently seeking:** Remote SOC Tier 1 roles
 ## Background
 Former independent security researcher transitioning to defensive operations. 
 Attacker mindset + Blue Team training + Continuous certification = unique SOC perspective.
