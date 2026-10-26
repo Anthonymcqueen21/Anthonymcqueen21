@@ -7,7 +7,7 @@
 - 📍 Bakersfield, CA | **Remote SOC roles only**
 
 ## Recent Achievement
-- 🏅 **SPLUNKing Badge** - Completed Splunk: Parsing and Manipulating Data (September 30, 2026)
+- 🏅 **ELKsquisite Badge** - Completed Slingshot challenge (October 24th, 2026)
 
 ## Technical Skills
 - **SIEM**: Splunk, ELK Stack, log analysis, threat hunting
@@ -26,7 +26,7 @@
 ### 🔄 Phase 2: Blue Team Specialization (IN PROGRESS)
 | Certification | Focus | Status | Target |
 |--------------|-------|--------|--------|
-| SAL1 - Security Analyst Level 1 | SOC Tier 1 | ✅ Training Complete<br>📝 Exam Scheduled | October 2026 |
+| SAL1 - Security Analyst Level 1 | SOC Tier 1 | ✅ Training Complete<br>📝 Exam Scheduled | November/December 2026 |
 | SAL2 - Security Analyst Level 2 | SOC Tier 2 | 🚀 Enrolled (10%)<br>Active Learning | Q2 2027 |
 
 ### 📋 Phase 3: Industry Validation (POST-HIRE)
