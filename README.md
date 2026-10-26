@@ -1,7 +1,7 @@
 # Anthony Perez | SOC Analyst Candidate | Blue Team Operations | Principal Security Architect Track
 
 ## Current Focus: Blue Team Operations
-- 🔥 **450+-day TryHackMe streak** | Rank 11,041 (Top 1%) | 257 rooms completed | 45 badges earned
+- 🔥 **450+ day TryHackMe streak** | Rank 11,041 (Top 1%) | 257 rooms completed | 45 badges earned
 - 📜 **SEC0 & SEC1 Certified** | **SAL1 Training Complete** | **SAL2 Enrolled (18%)**
 - 🎯 **6 years offensive security research bug bounty red-team** → Blue Team transition
 - 📍 Bakersfield, CA | **Remote SOC roles only**
