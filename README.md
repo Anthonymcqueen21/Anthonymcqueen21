@@ -1,19 +1,23 @@
 # Anthony Perez | SOC Analyst Candidate | Blue Team Operations | Principal Security Architect Track
 
 ## Current Focus: Blue Team Operations
-- 🔥 **450+ day TryHackMe streak** | Rank 11,041 (Top 1%) | 257 rooms completed | 45 badges earned
-- 📜 **SEC0 & SEC1 Certified** | **SAL1 Training Complete** | **SAL2 Enrolled (18%)**
+- 🔥 **468-day TryHackMe streak** | Rank 11,041 (Top 1%) | 257 rooms completed | 46 badges earned
+- 🧠 Capability score 67 · Ruby league · 4,986 platform events in the past year
+- 📜 **SEC0 & SEC1 Certified** | **SAL1 Training Complete** | **SAL2 Enrolled (23%)**
 - 🎯 **6 years offensive security research bug bounty red-team** → Blue Team transition
-- 📍 Bakersfield, CA | **Remote SOC roles only**
+- 📍 Bakersfield, CA → **relocating to Sacramento** | Hybrid & on-site SOC roles
 
 ## Recent Achievement
-- 🏅 **ELKsquisite Badge** - Completed Slingshot challenge (October 24th, 2026)
+- 🛡️ **Domain Guardian Badge** — *"Every AD attack, caught in the logs."* Active Directory attack detection, SOC Level 2 (November 2026)
+- 🏅 **ELKsquisite Badge** — Completed Slingshot challenge (October 24th, 2026)
+- ✅ **4 learning paths completed** — SOC Level 1 · Cyber Security 101 · Pre Security · Jr Penetration Tester
 
 ## Technical Skills
 - **SIEM**: Splunk, ELK Stack, log analysis, threat hunting
-- **Threat Detection**: MITRE ATT&CK, IOC analysis, alert triage
+- **Detection**: MITRE ATT&CK, IOC analysis, alert triage, detection engineering
+- **Response**: Incident response, digital forensics, security operations
 - **Networking**: TCP/IP, Wireshark, network traffic analysis
-- **Tools**: Nmap, Burp Suite, OSINT frameworks, Python scripting
+- **Tools**: Nmap, Burp Suite, Dirbuster, John the Ripper, OSINT frameworks, Python scripting
 
 ## Certification Roadmap (2 Down, 6 To Go)
 
@@ -27,7 +31,7 @@
 | Certification | Focus | Status | Target |
 |--------------|-------|--------|--------|
 | SAL1 - Security Analyst Level 1 | SOC Tier 1 | ✅ Training Complete<br>📝 Exam Scheduled | November/December 2026 |
-| SAL2 - Security Analyst Level 2 | SOC Tier 2 | 🚀 Enrolled (18%)<br>Active Learning | Q2 2027 |
+| SAL2 - Security Analyst Level 2 | SOC Tier 2 | 🚀 Enrolled (23%)<br>Active Learning | Q2 2027 |
 
 ### 📋 Phase 3: Industry Validation (POST-HIRE)
 | Certification | Purpose | Target |
@@ -43,17 +47,11 @@
 
 ## Career Progression
 
-**Current Goal:** Pass SAL1 exam, secure remote SOC Tier 1 role by January 2027
+**Current Goal:** Pass the SAL1 exam and secure a SOC Tier 1 role in Sacramento state service by January 2027.
 
 **Long-term Vision:** Bullet-proof resume with 7 certifications ensuring never more than 2-3 months between jobs. Become a Principal Security Architect by 55.
 
 ## Background
-Former independent security researcher transitioning to defensive operations. 
-Attacker mindset + Blue Team training + Continuous certification = unique SOC perspective.
+Former independent security researcher transitioning to defensive operations. Attacker mindset + Blue Team training + continuous certification = a unique SOC perspective.
 
-**Currently seeking:** Remote SOC Tier 1 roles
-## Background
-Former independent security researcher transitioning to defensive operations. 
-Attacker mindset + Blue Team training + Continuous certification = unique SOC perspective.
-
-**Currently seeking:** Remote SOC Tier 1 roles
+**Currently seeking:** SOC Tier 1 and Information Security roles in Sacramento state service.
