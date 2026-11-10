@@ -17,7 +17,7 @@
 - **Detection**: MITRE ATT&CK, IOC analysis, alert triage, detection engineering
 - **Response**: Incident response, digital forensics, security operations
 - **Networking**: TCP/IP, Wireshark, network traffic analysis
-- **Tools**: Nmap, Burp Suite, Dirbuster, John the Ripper, OSINT frameworks, Python scripting
+- **Tools**: Nmap, Burp Suite, Dirbuster, John the Ripper, OSINT frameworks, Python scripting, Commix, SQLMap, XSStrike, and SSRFMap.
 
 ## Certification Roadmap (2 Down, 6 To Go)
 
